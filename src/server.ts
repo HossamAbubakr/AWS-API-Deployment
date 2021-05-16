@@ -12,7 +12,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
   // Root Endpoint
   // Displays a simple message to the user
   app.get( "/", async ( req, res ) => {
-    res.send("Welcome to the Uagram endpoint, we are still in beta but so far we have the following endpoint(s) available:\n GET: /filteredimage?image_url=URL_HERE")
+    res.send("Welcome to the Udagram endpoint, we are still in beta but so far we have the following endpoint(s) available:\n GET: /filteredimage?image_url=URL_HERE")
   } );
 
   // filterImage Endpoint
