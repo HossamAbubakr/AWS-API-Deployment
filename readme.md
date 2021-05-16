@@ -7,6 +7,8 @@
 
 * [Technologies](#Technologies)
 
+* [Features](#Features)
+
 * [Structure](#Structure)
 
 * [Usage](#usage)
@@ -25,6 +27,13 @@ AWS EB CLI (Elastic Beanstalk Command Line Interface)
 Node.JS was used for the backend.  
 Typescript was used for creating the endpoints.  
 
+## Features
+
+1. Accepts both JP(E)G/PNG images.
+
+2. Returns an image with an applied image filter.
+
+3. Malformed requests and links are handled correctly.
 
 ## Structure 
 ```
