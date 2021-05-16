@@ -1,4 +1,4 @@
-# Image Filter API, , AWS API Deployment
+# Image Filter API, AWS API Deployment
 
 
 ## Table of Contents
@@ -13,7 +13,7 @@
 
 ## Summary
 
-This image filter API was configured and delpoyed to AWS as part of my **AWS Cloud Developer Nanodegree from Udacity**.
+This image filter API was configured and deployed to AWS as part of my **AWS Cloud Developer Nanodegree from Udacity**.
 
 It demonstrates my understanding and ability to configure the following services:  
 AWS Elastic Beanstalk  
@@ -57,5 +57,3 @@ You can also build the project using the included configuration settings
 ```shell
 npm run build
 ```
-
-
